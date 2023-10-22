@@ -1,3 +1,7 @@
 Using two datasets movies and ratings to answer the following question - 
-1. Filter out the ratings records for the movies that belong to only the “Action” genre. Calculate item similarity indexes between the movies based on movies the users have bought in the “Action” genre and how they have rated them. Use the Pearson correlation coefficient to find similarities. Then recommend the top 5  similar movies.
-7. Filter out the ratings records for the movies that belong to either the “Animation” or “Children” genre. Calculate item similarity indexes between the movies based on movies the users have bought in either the “Animation” or “Children” genre and how they have rated them. Use the cosine similarity index to  find similarities. Then recommend the top 5 similar movies
+1. Filter out the ratings records for the movies that belong to only the “Action” genre. Calculate item similarity indexes between the movies based on 
+movies the users have bought in the “Action” genre and how they have rated them. Use the Pearson correlation coefficient to find similarities. 
+Then recommend the top 5  similar movies.
+7. Filter out the ratings records for the movies that belong to either the “Animation” or “Children” genre. Calculate item similarity indexes between 
+the movies based on movies the users have bought in either the “Animation” or “Children” genre and how they have rated them. Use the cosine similarity 
+index to  find similarities. Then recommend the top 5 similar movies
