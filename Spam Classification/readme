@@ -1,1 +1,21 @@
-
+Concept Used :
+  Natural Language Processing and Machine Learning
+Libraries Used :
+  Pandas
+  Numpy
+  Sklearn
+  Imblearn
+  Matplotlib
+  Seaborn
+  Wordcloud
+  Collections
+  NLTK
+Modeling Performed:
+  GaussianNB
+  MultinomialNB
+  BernoulliNB
+Approach :
+  Cleaning
+  EDA
+  Model Building
+  Prediction
